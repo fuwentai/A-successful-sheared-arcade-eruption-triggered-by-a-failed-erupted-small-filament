@@ -1,0 +1,1 @@
+video_simulation.mp4 is an animation of the synthesized EUV images and the magnetic configuration from the perspective of Figure 5(d) in the article 'A successful sheared-arcade eruption triggered by a failed erupted small filament'.
